@@ -4,8 +4,7 @@ Here we are collecting a video from the front dash camera and training a deep le
 This will predict angle at which the steering will rotate in order to drive a car in regular traffic and weather conditions.
 
 
-https://user-images.githubusercontent.com/67441175/125787373-9ddbe285-9ffb-4864-b373-031c82d35a2f.mp4
-
+https://user-images.githubusercontent.com/67441175/125787879-09f1fcd6-e81c-4eab-83c4-e73a71e8e393.mp4
 
 
 
