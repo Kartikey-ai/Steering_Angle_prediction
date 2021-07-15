@@ -3,6 +3,13 @@ This project is a scale down version of self driving car.
 Here we are collecting a video from the front dash camera and training a deep learning based model. 
 This will predict angle at which the steering will rotate in order to drive a car in regular traffic and weather conditions.
 
+
+https://user-images.githubusercontent.com/67441175/125787373-9ddbe285-9ffb-4864-b373-031c82d35a2f.mp4
+
+
+
+
+
 ## Dataset
 The link to the dataset is here. I donot remember the exact link so uploaded on my drive. Feel free to request it. 
 https://drive.google.com/drive/u/1/folders/1rvGwBpA5-ILRjHPL_bnhc979i3PB8pyp
